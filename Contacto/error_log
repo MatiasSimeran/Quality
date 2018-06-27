@@ -1,0 +1,168 @@
+[11-May-2018 17:17:17 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 17:17:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 17:18:54 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 17:18:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 17:19:32 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 17:19:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 18:07:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 18:59:20 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 18:59:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 19:00:43 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:00:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '107.180.25.236:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 19:01:15 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:01:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 19:01:45 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:01:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 97
+[11-May-2018 19:01:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 98
+[11-May-2018 19:04:56 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:04:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 100
+[11-May-2018 19:06:56 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:08:41 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[11-May-2018 19:16:47 UTC] PHP Notice:  Undefined index: nombre in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 73
+[11-May-2018 19:16:47 UTC] PHP Notice:  Undefined index: mail in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 76
+[11-May-2018 19:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:205
+Stack trace:
+#0 /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php(89): PHPExcel_Writer_Excel2007->save('../NewsLetter/N...')
+#1 {main}
+  thrown in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 205
+[11-May-2018 19:49:38 UTC] PHP Notice:  Undefined index: nombre in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 75
+[11-May-2018 19:49:38 UTC] PHP Notice:  Undefined index: mail in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 78
+[11-May-2018 19:49:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:205
+Stack trace:
+#0 /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php(91): PHPExcel_Writer_Excel2007->save('../NewsLetter/N...')
+#1 {main}
+  thrown in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 205
+[11-May-2018 19:58:04 UTC] PHP Notice:  Array to string conversion in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 119
+[11-May-2018 20:08:54 UTC] PHP Parse error:  syntax error, unexpected '$mydate' (T_VARIABLE) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 114
+[11-May-2018 20:09:56 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 114
+[11-May-2018 20:09:56 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 114
+[11-May-2018 20:09:56 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 114
+[11-May-2018 20:09:56 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 114
+[11-May-2018 20:12:24 UTC] PHP Notice:  Undefined index: nombre in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 75
+[11-May-2018 20:12:24 UTC] PHP Notice:  Undefined index: mail in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 78
+[11-May-2018 20:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php:205
+Stack trace:
+#0 /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php(91): PHPExcel_Writer_Excel2007->save('../NewsLetter/N...')
+#1 {main}
+  thrown in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/PHPExcel/Classes/PHPExcel/Writer/Excel2007.php on line 205
+[11-May-2018 20:16:23 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[11-May-2018 20:16:23 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[11-May-2018 20:16:23 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[11-May-2018 20:16:23 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 01:56:06 UTC] PHP Notice:  Undefined index: motivo in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 11
+[12-May-2018 01:56:06 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 01:56:06 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 01:56:06 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 01:56:06 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 02:53:33 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 02:53:33 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 02:53:33 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 02:53:33 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[12-May-2018 03:16:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 7
+[12-May-2018 03:18:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 7
+[12-May-2018 03:33:13 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:13 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:16 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:16 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:27 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:27 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:33 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:33:33 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:36:35 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:36:35 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:37:02 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:37:02 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:37:13 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:37:13 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:38:57 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:38:57 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:43:00 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:43:00 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:47:37 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 03:47:37 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:00:45 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:00:45 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:01:33 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:01:33 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:02:05 UTC] PHP Warning:  require_once(./newsletterMailchimp.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[12-May-2018 04:02:05 UTC] PHP Fatal error:  require_once(): Failed opening required './newsletterMailchimp.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaNewsletter.php on line 6
+[13-May-2018 15:29:30 UTC] PHP Warning:  require_once(./configmailchimpNewsLetter.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/newsletterMailchimp.php on line 3
+[13-May-2018 15:29:30 UTC] PHP Fatal error:  require_once(): Failed opening required './configmailchimpNewsLetter.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/newsletterMailchimp.php on line 3
+[13-May-2018 15:30:30 UTC] PHP Warning:  require_once(./configmailchimpNewsLetter.php): failed to open stream: No such file or directory in /home/vffmr83aevbc/public_html/Prusitio/Quality/newsletterMailchimp.php on line 3
+[13-May-2018 15:30:30 UTC] PHP Fatal error:  require_once(): Failed opening required './configmailchimpNewsLetter.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/vffmr83aevbc/public_html/Prusitio/Quality/newsletterMailchimp.php on line 3
+[13-May-2018 16:51:14 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:51:14 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:51:14 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:51:14 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:52:04 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:52:04 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:52:04 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[13-May-2018 16:52:04 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Prusitio/Quality/Contacto/guardaConsulta.php on line 117
+[16-May-2018 05:16:43 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[16-May-2018 05:16:43 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[16-May-2018 05:16:43 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[16-May-2018 05:16:43 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[21-May-2018 13:20:19 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[21-May-2018 13:20:19 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[21-May-2018 13:20:19 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[21-May-2018 13:20:19 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 20:59:42 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 20:59:42 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 20:59:42 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 20:59:42 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:02:17 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:02:17 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:02:17 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:02:17 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:06:24 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:06:24 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:06:24 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:06:24 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:13:00 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:13:00 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:13:00 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:13:00 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:20:30 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:20:30 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:20:30 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[25-May-2018 21:20:30 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:41:09 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:41:09 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:41:09 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:41:09 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:52:47 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:52:47 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:52:47 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 14:52:47 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:31:27 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:31:27 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:31:27 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:31:27 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:34:15 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:34:15 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:34:15 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:34:15 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:36:20 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:36:20 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:36:20 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:36:20 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:38:25 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:38:25 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:38:25 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:38:25 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:41:07 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:41:07 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:41:07 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:41:07 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:43:45 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:43:45 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:43:45 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:43:45 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:57:39 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:57:39 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:57:39 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 16:57:39 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 17:16:01 UTC] PHP Notice:  Use of undefined constant weekday - assumed 'weekday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 17:16:01 UTC] PHP Notice:  Use of undefined constant month - assumed 'month' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 17:16:01 UTC] PHP Notice:  Use of undefined constant mday - assumed 'mday' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117
+[26-May-2018 17:16:01 UTC] PHP Notice:  Use of undefined constant year - assumed 'year' in /home/vffmr83aevbc/public_html/Contacto/guardaConsulta.php on line 117

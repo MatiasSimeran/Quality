@@ -1,0 +1,299 @@
+.header-titulo {
+	height: 500px;
+	width: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	background-image: url(../../Imagenes/Nosotros.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-color: #222;
+	overflow: hidden;
+}
+
+.item-background-filter {
+	height: 500px;
+	width: 100%;
+	-webkit-filter: contrast(108%) brightness(108%) sepia(8%);
+	filter: contrast(108%) brightness(108%) sepia(8%);
+}
+
+.item-background-filter::before {
+	content: "";
+	display: block;
+	height: 500px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	pointer-events: none;
+	mix-blend-mode: exclusion;
+	opacity: 0.5;
+	background: rgba(58, 3, 57, 1);
+}
+
+.header-titulo-item {
+	min-height: 100px;
+	position: absolute;
+	top: 32%;
+	left: 0;
+	right: 0;
+}
+
+.header-titulo-item>h1 {
+	height: 100%;
+	width: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 80px;
+	padding-top: 15px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	line-height: 1.1;
+}
+
+@media screen and (max-width: 1012px) {
+	.header-titulo,
+	.item-background-filter,
+	.item-background-filter::before {
+		height: 400px;
+	}
+}
+
+@media screen and (max-width: 496px) {
+	.header-titulo,
+	.item-background-filter,
+	.item-background-filter::before {
+		height: 300px;
+	}
+	.header-titulo-item {
+		min-height: 100px;
+		position: absolute;
+		top: 25%;
+		left: 0;
+		right: 0;
+	}
+	.header-titulo-item>h1 {
+		font-size: 50px;
+	}
+}
+
+@media screen and (max-width: 392px) {
+	.header-titulo,
+	.item-background-filter,
+	.item-background-filter::before {
+		height: 200px;
+	}
+	.header-titulo-item {
+		min-height: 100px;
+		position: absolute;
+		top: 15%;
+		left: 0;
+		right: 0;
+	}
+	.header-titulo-item>h1 {
+		font-size: 30px;
+	}
+}
+
+/************************************************************************************/
+
+.texto-Empresa {
+	margin-top: 40px;
+	text-align: center;
+	font-size: 2.5em;
+	color: #333;
+	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
+	text-transform: uppercase;
+}
+
+.texto-descripcion-Empresa,
+.texto-descripcion-Mision>p {
+	margin: auto;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 1.6em;
+	font-weight: 300;
+	color: #636363;
+	box-sizing: border-box;
+	padding-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 75%;
+}
+
+.Mision {
+	background-color: #009fcb;
+	padding-bottom: 30px;
+}
+
+.texto-Mision {
+	width: 100%;
+	display: inline-block;
+	margin-top: 40px;
+	text-align: center;
+	font-size: 2.5em;
+	color: #fff;
+	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
+	text-transform: uppercase;
+}
+
+.texto-descripcion-Mision>p {
+	color: #fff;
+}
+
+.Socios-Ejecutivos {
+	text-align: center;
+	margin-bottom: 40px;
+	background-color: #fff;
+	padding-top: 40px;
+}
+
+@media screen and (max-width: 910px) {
+	.texto-descripcion-Empresa,
+	.texto-descripcion-Mision>p {
+		width: 90%;
+		text-align: justify;
+		font-size: 1.4em;
+	}
+}
+
+/*Whatsapp*/
+
+/*****************************************/
+
+.icon-whatsapp-item {
+	height: 60px;
+	width: 300px;
+	position: fixed;
+	bottom: 5%;
+	left: 1%;
+	z-index: 9999;
+}
+
+.icon-whatsapp-item>a {
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border-radius: 50%;
+	color: #fff;
+	text-decoration: none;
+	font-size: 28px;
+	box-sizing: border-box;
+	text-align: center;
+	padding-top: 13px;
+	border-radius: 50%;
+	background-color: #0fb800;
+	border: 2px solid #fff;
+	box-shadow: 0px 5px 10px rgba(25, 25, 25, .3);
+}
+
+.icon-whatsapp-item>a:hover {
+	background-color: #0c9800;
+}
+
+.ico-left-dir {
+	color: rgba(25, 25, 25, .8);
+	font-size: 18px;
+}
+
+.icon-whatsapp-item-mensaje {
+	height: 40px;
+	width: 186.5px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 10px;
+	opacity: 0;
+	display: none;
+}
+
+.icon-whatsapp-item-mensaje>span {
+	height: 10px;
+	width: 10px;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	margin-top: 8px;
+	float: left;
+}
+
+.icon-whatsapp-item-mensaje>p {
+	height: 100%;
+	width: 170px;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top: 10px;
+	background-color: rgba(25, 25, 25, .9);
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px rgba(25, 25, 25, .3);
+	float: right;
+	font-family: helvetica;
+}
+
+.whatsapp-icon-hover {
+	opacity: 1;
+	display: block;
+}
+
+/*************************************************************************/
+
+.conenido-tecnologias {
+	height: 300px;
+	width: 100%;
+	background-color: #000;
+	background-image: url('../../Imagenes/dev.jpg');
+	background-position: 50% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.conenido-tecnologias-img {
+	height: 100%;
+	width: 100%;
+	background-color: rgba(25, 25, 25, .2);
+}
+
+.conenido-tecnologias-img>img {
+	height: 100%;
+	width: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.Equipo {
+	background-color: #fff;
+	padding-bottom: 100px;
+}
+
+@media screen and (max-width: 854px) {
+	.conenido-tecnologias {
+		height: 200px;
+	}
+}
+
+@media screen and (max-width: 546px) {
+	.conenido-tecnologias {
+		height: 100px;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	.conenido-tecnologias {
+		display: none;
+	}
+}
